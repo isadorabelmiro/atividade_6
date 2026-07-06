@@ -1,1 +1,1 @@
-Ola sou aluna de Engenharia de Software na Usp.
+Ola sou aluna do primeiro ano de Ciencia da Computaçao na UniFil.
